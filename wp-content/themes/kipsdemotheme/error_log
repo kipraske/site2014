@@ -1,0 +1,3 @@
+[31-Jul-2014 22:59:16 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home6/kristog4/public_html/wp-content/themes/kipsdemotheme/index.php on line 13
+[12-Jul-2015 06:48:52 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home6/kristog4/public_html/wp-content/themes/kipsdemotheme/404.php on line 10
+[03-Oct-2015 21:15:32 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home6/kristog4/public_html/wp-content/themes/kipsdemotheme/index.php on line 13

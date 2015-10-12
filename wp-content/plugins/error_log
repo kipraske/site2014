@@ -1,0 +1,5 @@
+[27-May-2015 19:23:00 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home6/kristog4/public_html/wp-content/plugins/hello.php on line 60
+[27-Jun-2015 20:25:59 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home6/kristog4/public_html/wp-content/plugins/hello.php on line 60
+[16-Aug-2015 00:32:30 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home6/kristog4/public_html/wp-content/plugins/hello.php on line 60
+[23-Aug-2015 17:17:53 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home6/kristog4/public_html/wp-content/plugins/hello.php on line 60
+[15-Sep-2015 01:00:53 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home6/kristog4/public_html/wp-content/plugins/hello.php on line 60
